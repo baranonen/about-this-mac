@@ -13,5 +13,8 @@ struct AboutThisMacApp: App {
         WindowGroup {
             ContentView()
         }
+        .commands {
+            SidebarCommands()
+        }
     }
 }
