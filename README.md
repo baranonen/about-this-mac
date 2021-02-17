@@ -4,5 +4,6 @@ Built using SwiftUI
 ## Screenshots
 ### Dark Mode
 <img src="https://raw.githubusercontent.com/baranonen/about-this-mac/main/Screenshots/DarkMode.png" width="500px">
+
 ### Light Mode
 <img src="https://raw.githubusercontent.com/baranonen/about-this-mac/main/Screenshots/LightMode.png" width="500px">
